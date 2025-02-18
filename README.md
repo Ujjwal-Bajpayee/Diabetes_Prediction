@@ -1,0 +1,1 @@
+This project aims to predict the likelihood of diabetes in patients using machine learning models. By analyzing relevant health metrics, the model helps in early detection, enabling better management and treatment of diabetes.
